@@ -1,7 +1,8 @@
 <template>
   <section class="about" id="about">
     <div class="container">
-     <h2 class="note"> Note! This Site Still in development proccess, and not completed yet.</h2>
+     <h2 class="note"> Note! This site still in development proccess, and not completed yet.</h2>
+     <h2 class="note"> This site build using Vue framework.</h2>
     </div>
   </section>
 </template>
