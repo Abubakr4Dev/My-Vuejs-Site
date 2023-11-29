@@ -24,7 +24,7 @@
           <i class="fa-brands fa-linkedin-in"></i>
         </a>
       </div>
-      <a href="../assets//Abubakr Elzayat_12.pdf" target="_blank" class="btn"
+      <a href="https://www.canva.com/design/DAFm7TIraWE/oF-nLpfAzbgTqmHNgE2vMw/view?utm_content=DAFm7TIraWE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank" class="btn"
         >Donwload CV</a
       >
     </div>
