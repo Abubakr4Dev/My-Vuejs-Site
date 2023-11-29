@@ -1,29 +1,32 @@
 <template>
-  <section class="home" id="home">
+  <section class="home" id="section">
     <div class="container">
       <h3>Hello, It's Me</h3>
       <h2>Abubakr Elzayat</h2>
       <h3>I'm a Backend & <span>Nodejs</span> Developer</h3>
       <p>
-        Highly motivated Backend Node.js Developer with a strong passion for creating efficient and scalable web
-applications. Skilled in developing APIs and implementing server-side logic using Node.js, Express, and
-MongoDB. Proficient in version control using Git and experienced in TypeScript development..
-Additionally, I have a solid foundation in data structures, algorithms, and problem-solving, enabling me to
-design and implement efficient and optimized solutions. And I have a passion to learn new features and
-skills that can help us to increase productivity and make our work easier in our company.
+        Highly motivated Backend Node.js Developer with a strong passion for
+        creating efficient and scalable web applications. Skilled in developing
+        APIs and implementing server-side logic using Node.js, Express, and
+        MongoDB. Proficient in version control using Git and experienced in
+        TypeScript development.. Additionally, I have a solid foundation in C++, data
+        structures, algorithms, and problem-solving, enabling me to design and
+        implement efficient and optimized solutions.
       </p>
       <div class="social-media">
-        <RouterLink class="social-icon" :to="{ name: 'Home' }">
+        <a href="https://www.facebook.com/profile.php?id=100094114837480" target="_blank" class="social-icon" >
           <i class="fa-brands fa-facebook-f"></i>
-        </RouterLink>
-        <RouterLink class="social-icon" :to="{ name: 'Home' }">
+        </a>
+        <RouterLink  class="social-icon" :to="{ name: 'Home' }">
           <i class="fa-brands fa-x-twitter"></i>
         </RouterLink>
-        <RouterLink class="social-icon" :to="{ name: 'Home' }">
+        <a href="https://www.linkedin.com/in/abubakr-elzayat-3aa789280/" target="_blank" class="social-icon" >
           <i class="fa-brands fa-linkedin-in"></i>
-        </RouterLink>
+        </a>
       </div>
-      <a href="" class="btn">Donwload CV</a>
+      <a href="../assets//Abubakr Elzayat_12.pdf" target="_blank" class="btn"
+        >Donwload CV</a
+      >
     </div>
   </section>
 </template>
@@ -32,7 +35,8 @@ skills that can help us to increase productivity and make our work easier in our
 export default {
   name: 'HomePage',
   data() {
-    return {};
+    return {
+    };
   },
 };
 </script>

@@ -394,3 +394,20 @@ span {
 
 
 /* End Services Section */
+
+
+/* Start About Section */
+
+.about .container p {
+  font-size: 1.3rem;
+}
+
+.about li {
+  list-style: disc;
+  margin: 5px;
+}
+
+.about ul {
+  margin-left: 40px;
+}
+/* End About Section */

@@ -5,7 +5,8 @@ import './css/main.css';
 import App from './App.vue';
 import * as VueRouter from 'vue-router';
 import NotFoundPage from './pages/NotFoundPage.vue';
-import HomePage from './pages/HomePage.vue'
+import HomePage from './pages/HomePage.vue';
+import AboutPage from './pages/About.vue';
 
 // Font Awesome
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
@@ -27,7 +28,13 @@ const vueRouter = VueRouter.createRouter({
       name: 'Home',
       component: HomePage,
     },
+    {
+      path: '/about',
+      name: 'About',
+      component: AboutPage,
+    },
   ],
+
 });
 
 createApp(App).component('fa', FontAwesomeIcon).use(vueRouter).mount('#app');
