@@ -14,10 +14,10 @@
       </p>
       <p class="note">My Skills and knowledge in this feild is:</p>
       <ul>
-        <li>HTML & CSS(Expert)</li>
-        <li>Javascript(Expert)</li>
-        <li>Nodejs - Express(Expert)</li>
-        <li>TypeScript(Expert)</li>
+        <li>HTML & CSS(Good)</li>
+        <li>Javascript(Good)</li>
+        <li>Nodejs - Express(Good)</li>
+        <li>TypeScript(Good)</li>
         <li>MongoDB(Intermediate)</li>
         <li>PostgreSQL using TypeORM(Intermediate)</li>
         <li>Git - Github</li>
