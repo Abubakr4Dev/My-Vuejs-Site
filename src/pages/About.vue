@@ -14,20 +14,22 @@
       </p>
       <p class="note">My Skills and knowledge in this feild is:</p>
       <ul>
-        <li>HTML & CSS</li>
-        <li>Javascript</li>
-        <li>Nodejs - Express</li>
-        <li>TypeScript</li>
-        <li>MongoDB</li>
+        <li>HTML & CSS(Expert)</li>
+        <li>Javascript(Expert)</li>
+        <li>Nodejs - Express(Expert)</li>
+        <li>TypeScript(Expert)</li>
+        <li>MongoDB(Intermediate)</li>
+        <li>PostgreSQL using TypeORM(Intermediate)</li>
         <li>Git - Github</li>
         <li>Swagger documentation interface</li>
-        <li>Vue - Vuetify as front-end framework</li>
+        <li>Vue - Vuetify as front-end framework(Intermediate)</li>
+        <li>Nest.js(Learning)</li>
       </ul>
       <br />
       <p>
         After all, I feel that I have learned a lot of things that took time to
         learn, but I have a passion to learn more features and skills that can
-        help us to increase productivity and make our work easier.
+        help me to increase productivity and make work easier.
       </p>
     </div>
   </section>

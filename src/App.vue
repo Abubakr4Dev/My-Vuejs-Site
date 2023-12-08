@@ -2,8 +2,8 @@
   <body :class="mode">
     <nav-bar :mode="mode" @toggle="toggle" />
     <HomePage></HomePage>
-    <ServicesPage></ServicesPage>
     <AboutPage></AboutPage>
+    <ServicesPage></ServicesPage>
   </body>
 </template>
 

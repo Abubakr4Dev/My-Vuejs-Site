@@ -48,20 +48,20 @@ export default {
       dark: true,
       Links: [
         { name: 'Home', url: 'home' },
-        { name: 'Services', url: 'services' },
         { name: 'About Me', url: 'about' },
+        { name: 'Services', url: 'services' },
       ],
     };
   },
   methods: {
     scroll(component) {
-        this.showMenu()
-        if (component === 'home') {
-          window.scrollTo(0,0);
-          return
-        }
-        let element = document.getElementById(component);
-        element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      this.showMenu();
+      if (component === 'home') {
+        window.scrollTo(0, 0);
+        return;
+      }
+      let element = document.getElementById(component);
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
     },
 
     showMenu() {
@@ -75,4 +75,3 @@ export default {
   created() {},
 };
 </script>
-
