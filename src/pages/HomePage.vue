@@ -5,7 +5,7 @@
       <h2>Abubakr Elzayat</h2>
       <h3>I'm a Backend & <span>Nodejs</span> Developer</h3>
       <p>
-        Highly motivated Backend Node.js Developer with a strong passion for
+        Highly motivated Backend Node.js Developer with strong passion for
         creating efficient and scalable web applications. Skilled in developing
         APIs and implementing server-side logic using Node.js, Express, and
         MongoDB. Proficient in version control using Git and experienced in
