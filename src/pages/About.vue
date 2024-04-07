@@ -1,5 +1,5 @@
 <template>
-  <section  class="about" id="about">
+  <section class="about" id="about">
     <div class="container">
       <p class="note">
         I have worked as mobile phones maintenance technician, I decided to
@@ -14,16 +14,16 @@
       </p>
       <p class="note">My Skills and knowledge in this feild is:</p>
       <ul>
+        <li>Nodejs - Express(Good)</li>
+        <li>Nest.js(Good)</li>
+        <li>Vue - Vue Router - Pinia (Good)</li>
         <li>HTML & CSS(Good)</li>
         <li>Javascript(Good)</li>
-        <li>Nodejs - Express(Good)</li>
         <li>TypeScript(Good)</li>
-        <li>MongoDB(Intermediate)</li>
+        <li>MongoDB(Good)</li>
         <li>PostgreSQL using TypeORM(Intermediate)</li>
         <li>Git - Github</li>
         <li>Swagger documentation interface</li>
-        <li>Vue - Vuetify as front-end framework(Intermediate)</li>
-        <li>Nest.js(Learning)</li>
       </ul>
       <br />
       <p>
@@ -37,7 +37,7 @@
 
 <script>
 export default {
-  name: 'AboutPage',
+  name: "AboutPage",
   data() {
     return {};
   },

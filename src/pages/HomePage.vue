@@ -5,9 +5,9 @@
       <h2>Abubakr Elzayat</h2>
       <h3>I'm a Backend & <span>Nodejs</span> Developer</h3>
       <p>
-        Highly motivated Backend Node.js Developer with strong passion for
+        Highly motivated Fullstack Developer with strong passion for
         creating efficient and scalable web applications. Skilled in developing
-        APIs and implementing server-side logic using Node.js, Express, and
+        APIs and implementing server-side logic and client-side interface using Node.js, Nestjs, Vuejs, and
         MongoDB. Proficient in version control using Git and experienced in
         TypeScript-TypeORM development.. Additionally, I have a solid foundation
         in C++, data structures, algorithms, and problem-solving, enabling me to
@@ -33,7 +33,7 @@
         </a>
       </div>
       <a
-        href="https://www.canva.com/design/DAFm7TIraWE/oF-nLpfAzbgTqmHNgE2vMw/view?utm_content=DAFm7TIraWE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+        href="https://www.canva.com/design/DAFm7TIraWE/MHoJqqaRErrud5MkLH7cCw/edit?utm_content=DAFm7TIraWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
         target="_blank"
         class="btn"
         >Donwload CV</a
@@ -44,7 +44,7 @@
 
 <script>
 export default {
-  name: 'HomePage',
+  name: "HomePage",
   data() {
     return {};
   },
