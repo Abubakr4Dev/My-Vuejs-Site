@@ -3,7 +3,7 @@
     <div class="container">
       <h3>Hello, It's Me</h3>
       <h2>Abubakr Elzayat</h2>
-      <h3>I'm a Backend & <span>Nodejs</span> Developer</h3>
+      <h3>I'm a Fullstack & <span>Nodejs</span> Developer</h3>
       <p>
         Highly motivated Fullstack Developer with strong passion for
         creating efficient and scalable web applications. Skilled in developing

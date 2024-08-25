@@ -10,7 +10,7 @@
       <br />
       <p class="note">
         After that i decided to chose The Web development as my main field, and
-        working as back-end & nodejs developer.
+        working as Fullstack & nodejs developer.
       </p>
       <p class="note">My Skills and knowledge in this feild is:</p>
       <ul>
